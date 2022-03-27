@@ -3,7 +3,7 @@ from colored_logs.logger import Logger, LogType
 from contextlib import suppress
 from netaddr import IPNetwork
 from datetime import datetime
-from ScrapeSearchEngine.ScrapeSearchEngine import Google, Bing, Yahoo, Duckduckgo
+from ScrapeSearchEngine.ScrapeSearchEngine import Google, Bing, Yahoo, Duckduckgo, Givewater, Ecosia
 from re import compile
 
 cphone = compile("[+]\d+(?:[-\s]|)[\d\-\s]+")
