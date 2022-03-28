@@ -1,3 +1,5 @@
 netaddr>=0.8.0
 scrape-search-engine>=0.2.2
 colored-logs>=0.2.10
+beautifulsoup4>=4.10.0
+requests>=2.27.1
